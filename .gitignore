@@ -1,0 +1,12 @@
+# OS
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Local tooling
+.env
+*.tmp
+.idea
+.ai-code-tracking.json
